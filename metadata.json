@@ -1,0 +1,6 @@
+{
+  "name": "ARSH - Luxury Fragrance House",
+  "description": "Exquisite handcrafted fragrances from Lahore, Pakistan. Shop signature perfumes for men, women, and unisex with nationwide Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
